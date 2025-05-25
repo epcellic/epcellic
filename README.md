@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++,Unreal Engine5 and blender
 - 💞️ I’m looking to collaborate on many Awesome bosses and entrepreneures
 - 📫 How to reach me :maybe WeChat（BGSx999）or Twitter（0.001dream）but I recommend using email（3379192411@qq.com）
-- 😄 Pronouns:sorry, I don't socialize much, maybe I don't talk much, and my goal is my pronoun
 - ⚡ Fun fact:I am looking forward to communicating and helping each other with all the great gods. At least now my ability is limited.
 
 <!---
