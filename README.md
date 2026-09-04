@@ -69,7 +69,7 @@ S
 
 ## Currently
 
-- Commercial Vessel plugin development
+- Commercial Visio plugin development
 - WPT frontier research & learning
 
 <!-- /BLOCK -->
