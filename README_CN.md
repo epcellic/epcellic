@@ -114,10 +114,6 @@
 ## GitHub 动态
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epcellic&show_icons=true&theme=github_dark&include_all_commits=true" alt="GitHub 统计" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epcellic/epcellic/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/epcellic/epcellic/output/github-contribution-grid-snake.svg" />
